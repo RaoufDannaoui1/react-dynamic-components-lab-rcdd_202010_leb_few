@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 // are we missing an import?
 
 export default class BlogPost extends Component {
-  render() {
+  render(){
 
     const comments = [
       "When we speak we are afraid our words will not be heard or welcomed. But when we are silent, we are still afraid. So it is better to speak. - Audrey Lorde",
